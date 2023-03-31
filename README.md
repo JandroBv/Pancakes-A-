@@ -13,8 +13,7 @@ Esta funcion recibe como parametro la posición donde se van a voltear los panca
 Esta función se encarga de la heuristica del programa, recibe como parametro el nodo al que se le va a calcular la heuristica y devuelve un valor entero que indica la heuristica de ese nodo.
 
  ### **'busqAStar(self, nodo)'**
- Esta funcion recibe como parametro el nodo a partir del cual se realizará la busqueda en amplitud y va a retornar la serie de movimientos  
- que se tiene que realizar para ordenar de menor a mayor los pancakes.
+ Esta funcion recibe como parametro el nodo a partir del cual se realizará la busqueda en amplitud y va a retornar la serie de movimientos que se tiene que realizar para ordenar de menor a mayor los pancakes.
  
  ## Como utilizar el código
 Para poder utilizar el código se tiene que crear una instancia de la clase "Pancakes" añadiendole como parametro una lista desordenada  
